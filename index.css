@@ -409,6 +409,13 @@ li {
     background-repeat: no-repeat;
 }
 
+.pluralsight {
+    background-image: url();
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
 .card {
     transition: all .2s ease;
     border:none !important;
