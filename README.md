@@ -7,7 +7,6 @@
 <div align="center">
 
 
-    
 ![GitHub contributors](https://img.shields.io/github/contributors/Rayman-Sodhi/Clone-IT?color=blue)
 ![GitHub Closed issues](https://img.shields.io/github/issues-closed-raw/Rayman-Sodhi/Clone-IT?color=brightgreen)
     ![GitHub PR Open](https://img.shields.io/github/issues-pr/Rayman-Sodhi/Clone-IT?color=red)
